@@ -7,3 +7,5 @@ A project repository.
 <!-- Update functionality - commit 2 -->
 
 <!-- Improve documentation - commit 3 -->
+
+<!-- Refactor tests - commit 4 -->
