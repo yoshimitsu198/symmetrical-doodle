@@ -9,3 +9,5 @@ A project repository.
 <!-- Improve documentation - commit 3 -->
 
 <!-- Refactor tests - commit 4 -->
+
+<!-- Fix configuration - commit 5 -->
