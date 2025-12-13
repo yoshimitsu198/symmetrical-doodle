@@ -25,3 +25,5 @@ A project repository.
 <!-- Test comments - commit 11 -->
 
 <!-- Format type hints - commit 12 -->
+
+<!-- Add docstrings - commit 13 -->
