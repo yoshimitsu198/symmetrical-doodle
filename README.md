@@ -19,3 +19,5 @@ A project repository.
 <!-- Clean validation - commit 8 -->
 
 <!-- Simplify formatting - commit 9 -->
+
+<!-- Document structure - commit 10 -->
