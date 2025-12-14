@@ -29,3 +29,5 @@ A project repository.
 <!-- Add docstrings - commit 13 -->
 
 <!-- Update examples - commit 14 -->
+
+<!-- Improve README - commit 15 -->
