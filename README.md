@@ -27,3 +27,5 @@ A project repository.
 <!-- Format type hints - commit 12 -->
 
 <!-- Add docstrings - commit 13 -->
+
+<!-- Update examples - commit 14 -->
