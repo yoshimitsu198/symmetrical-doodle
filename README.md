@@ -31,3 +31,5 @@ A project repository.
 <!-- Update examples - commit 14 -->
 
 <!-- Improve README - commit 15 -->
+
+<!-- Refactor utilities - commit 16 -->
