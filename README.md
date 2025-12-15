@@ -35,3 +35,5 @@ A project repository.
 <!-- Refactor utilities - commit 16 -->
 
 <!-- Fix helpers - commit 17 -->
+
+<!-- Optimize constants - commit 18 -->
