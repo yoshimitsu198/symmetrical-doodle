@@ -51,3 +51,5 @@ A project repository.
 <!-- Format tests - commit 24 -->
 
 <!-- Add configuration - commit 25 -->
+
+<!-- Update error handling - commit 26 -->
