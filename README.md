@@ -49,3 +49,5 @@ A project repository.
 <!-- Test documentation - commit 23 -->
 
 <!-- Format tests - commit 24 -->
+
+<!-- Add configuration - commit 25 -->
