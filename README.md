@@ -67,3 +67,5 @@ A project repository.
 <!-- Clean type hints - commit 32 -->
 
 <!-- Simplify docstrings - commit 33 -->
+
+<!-- Document examples - commit 34 -->
