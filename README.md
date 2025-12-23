@@ -91,3 +91,5 @@ A project repository.
 <!-- Clean tests - commit 44 -->
 
 <!-- Simplify configuration - commit 45 -->
+
+<!-- Document error handling - commit 46 -->
