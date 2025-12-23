@@ -89,3 +89,5 @@ A project repository.
 <!-- Enhance documentation - commit 43 -->
 
 <!-- Clean tests - commit 44 -->
+
+<!-- Simplify configuration - commit 45 -->
