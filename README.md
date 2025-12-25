@@ -101,3 +101,5 @@ A project repository.
 <!-- Add formatting - commit 49 -->
 
 <!-- Update structure - commit 50 -->
+
+<!-- Improve comments - commit 51 -->
