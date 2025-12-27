@@ -115,3 +115,5 @@ A project repository.
 <!-- Clean utilities - commit 56 -->
 
 <!-- Simplify helpers - commit 57 -->
+
+<!-- Document constants - commit 58 -->
