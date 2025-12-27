@@ -113,3 +113,5 @@ A project repository.
 <!-- Enhance README - commit 55 -->
 
 <!-- Clean utilities - commit 56 -->
+
+<!-- Simplify helpers - commit 57 -->
