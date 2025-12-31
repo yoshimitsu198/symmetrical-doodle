@@ -139,3 +139,5 @@ A project repository.
 <!-- Clean validation - commit 68 -->
 
 <!-- Simplify formatting - commit 69 -->
+
+<!-- Document structure - commit 70 -->
