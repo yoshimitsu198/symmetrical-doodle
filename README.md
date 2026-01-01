@@ -149,3 +149,5 @@ A project repository.
 <!-- Add docstrings - commit 73 -->
 
 <!-- Update examples - commit 74 -->
+
+<!-- Improve README - commit 75 -->
