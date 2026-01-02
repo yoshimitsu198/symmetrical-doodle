@@ -151,3 +151,5 @@ A project repository.
 <!-- Update examples - commit 74 -->
 
 <!-- Improve README - commit 75 -->
+
+<!-- Refactor utilities - commit 76 -->
