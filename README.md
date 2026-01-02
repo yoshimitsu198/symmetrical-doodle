@@ -155,3 +155,5 @@ A project repository.
 <!-- Refactor utilities - commit 76 -->
 
 <!-- Fix helpers - commit 77 -->
+
+<!-- Optimize constants - commit 78 -->
