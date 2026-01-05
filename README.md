@@ -171,3 +171,5 @@ A project repository.
 <!-- Format tests - commit 84 -->
 
 <!-- Add configuration - commit 85 -->
+
+<!-- Update error handling - commit 86 -->
