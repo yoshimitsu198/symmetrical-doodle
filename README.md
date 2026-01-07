@@ -187,3 +187,5 @@ A project repository.
 <!-- Clean type hints - commit 92 -->
 
 <!-- Simplify docstrings - commit 93 -->
+
+<!-- Document examples - commit 94 -->
