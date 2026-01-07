@@ -185,3 +185,5 @@ A project repository.
 <!-- Enhance comments - commit 91 -->
 
 <!-- Clean type hints - commit 92 -->
+
+<!-- Simplify docstrings - commit 93 -->
